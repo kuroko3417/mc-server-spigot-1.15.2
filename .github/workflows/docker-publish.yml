@@ -14,7 +14,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: mc-server-spigot-1.15.1
+  IMAGE_NAME: mc-server-spigot-1.15.2
 
 jobs:
   # Run tests.
